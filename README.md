@@ -63,4 +63,4 @@ MilkUP is an image editing and transformation tool inspired by [Nikita Kryukov](
 ---
 
 ### **Known Issues**
-- Custom window size adjustments does not work on Windows 11.  
+- ~~Custom window size adjustments does not work on Windows 11~~.  
